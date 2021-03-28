@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ERIC NUNN
+![Eric Nunn](./images/Header.png)
 
 ### Who Am I?
 
