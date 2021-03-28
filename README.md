@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 My coding experience is focused in the fields of AI, deep learning, image generation. I've worked on different types of computer vision tasks including image classification and object detection. I am familiar with many data science technologies and I've got a solid understanding of data structures and algorithms.
 
-#### Most Used Languages
+#### Tools/Technologies
 - **OS** : macOS, Windows, Linux
 - **Editor** : PyCharm, Jupyter Notebook, VIM
 - **Languages** : Python, C++, Java, SQL, HTML, CSS, Markdown
