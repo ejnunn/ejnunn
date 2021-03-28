@@ -42,6 +42,11 @@ My coding experience is focused in the fields of AI, deep learning, image genera
 1. GAN Research
 2. Pokemon Classifier
 
+### Education
+- Computer Science MS, Seattle University
+- Computer Science Fundamentals Certificate, Seattle University
+- Chemical Engineering BSE, Arizona State University
+
 ### Work Experience
 - Boeing autoclave programming
 - Coursera Deep Learning and GAN certificates
