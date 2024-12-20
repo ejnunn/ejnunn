@@ -1,4 +1,4 @@
-![Eric Nunn](./images/Header.png)
+![Eric Nunn](./images/github-header-image.png)
 
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
