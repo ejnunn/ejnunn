@@ -4,38 +4,38 @@
 
 ### Who Am I?
 
-- 🏫 Graduate computer science student at Seattle University
-- ✈️ Equipment Engineer at Boeing working with large-scale R&D autoclaves and military flight-line equipment
-- 👨‍🏫 Grader for Machine Learning course (Spring 21 - Seattle University)
+- 🧑‍💻 Software Development Engineer at Amazon, specifically working in AWS S3 Index, contributing to the reliability and scalability of one of the largest distributed object storage systems in the world.
+- 🏫 Master's in Computer Science degree from Seattle University with a focus on Artificial Intelligence and Machine Learning.
+- ✈️ Former Equipment Engineer at Boeing, where I worked with large-scale industrial autoclaves and military flight-line equipment.
 
 [LinkedIn](https://www.linkedin.com/in/eric-j-nunn)
 |
-[Twitter](https://twitter.com/ericnunn11)
+[GitHub](https://www.github.com/ejnunn)
 
 ### Developer Skills
 
-My coding experience is focused in the fields of AI, deep learning, image generation. I've worked on different types of computer vision tasks including image classification and object detection. I am familiar with many data science technologies and I've got a solid understanding of data structures and algorithms.
+My coding experience spans backend development, distributed systems, and AI/ML research. I have designed and deployed solutions that improve system reliability and scalability, customer satisfaction, and operational efficiency. 
 
 #### Tools/Technologies
-- **OS** : macOS, Windows, Linux
-- **Editor** : PyCharm, Jupyter Notebook, VIM
-- **Languages** : Python, C++, Java, SQL, HTML, CSS, Markdown
-- **Frameworks/Libraries/Tools** : PyTorch, Tensorflow, Pandas, Numpy, Bootstrap
+- **OS** : Linux, macOS, Windows
+- **Languages** : Python, Java, Kotlin, JavaScript
+- **Frameworks/Libraries/Tools** : Kubernetes, Docker, PyTorch, TensorFlow, Pandas, Hadoop, Spark, GraphQL, Node.js, MongoDB, MySQL
+- **Cloud Platforms** : AWS (S3, EC2, SQS, SNS, Cloudwatch, Cloudfront, DynamoDB, etc.)
 
-### Portfolio Projects
-1. GAN Research
-2. Pokemon Classifier
+### Personal Projects
 
-### Education
-- Computer Science MS, Seattle University
-- Computer Science Fundamentals Certificate, Seattle University
-- Chemical Engineering BSE, Arizona State University
+#### Current Projects
 
-### Work Experience
-- Boeing autoclave programming
-- Coursera Deep Learning and GAN certificates
+1. **Advent of Code 2024**: Daily puzzles and brain-teasers testing your Data Structures & Algorithms knowledge, as well as other common software problem solving skills.
+2. **Chaos Engineering**: (No code here yet) Learning basics of chaos engineering through failure injection to test system durability when things inevitably go wrong.
+
+#### Past Projects
+
+1. **GAN Research**: Led a project to evaluate GAN output quality, proposing a novel metric. Results published in an [academic paper](https://arxiv.org/abs/2106.08575).
+2. **Text Search Pipeline**: Developed a TF-IDF-based text search pipeline using Hadoop and MapReduce, enabling efficient search functionality for large text corpora.
 
 ### Fun Facts
 
-- 🧗 I love bouldering with friends at the local climbing gym
-- 🎸 Sitting down with my guitar is the best stress reliever
+- 🚴 I enjoy biking around Seattle on my cargo bike with my dog.
+- 🧗 I love bouldering with friends at the local climbing gym.
+- 🎸 Still find time to sit down with my guitar when inspiration hits.
