@@ -4,12 +4,12 @@
 
 ### Who Am I?
 
-- 🧑‍💻 Software Development Engineer at Amazon, specifically working in AWS S3 Index, contributing to the reliability and scalability of one of the largest distributed object storage systems in the world.
-- 🏫 Master's in Computer Science degree from Seattle University with a focus on Artificial Intelligence and Machine Learning.
-- ✈️ Former Equipment Engineer at Boeing, where I worked with large-scale industrial autoclaves and military flight-line equipment.
+- 🧑‍💻 Experienced Software Development Engineer, previously at Amazon, where I worked on AWS S3 Index, contributing to the reliability and scalability of one of the largest distributed object storage systems in the world.  
+- 🚀 Currently exploring new opportunities, with a strong passion for backend engineering, distributed systems, and AI/ML.  
+- 🏫 Master's in Computer Science degree from Seattle University with a focus on Artificial Intelligence and Machine Learning.  
+- ✈️ Former Equipment Engineer at Boeing, where I worked with large-scale industrial autoclaves and military flight-line equipment.  
 
-[LinkedIn](https://www.linkedin.com/in/eric-j-nunn)
-|
+[LinkedIn](https://www.linkedin.com/in/eric-j-nunn)  
 [GitHub](https://www.github.com/ejnunn)
 
 ### Developer Skills
@@ -19,23 +19,26 @@ My coding experience spans backend development, distributed systems, and AI/ML r
 #### Tools/Technologies
 - **OS** : Linux, macOS, Windows
 - **Languages** : Python, Java, Kotlin, JavaScript
-- **Frameworks/Libraries/Tools** : Kubernetes, Docker, PyTorch, TensorFlow, Pandas, Hadoop, Spark, GraphQL, Node.js, MongoDB, MySQL
+- **Frameworks/Libraries/Tools** : Docker, PyTorch, TensorFlow, Pandas, Hadoop, Spark, Kafka, Redis, PostgreSQL, Elasticsearch
 - **Cloud Platforms** : AWS (S3, EC2, SQS, SNS, Cloudwatch, Cloudfront, DynamoDB, etc.)
 
 ### Personal Projects
 
 #### Current Projects
 
-1. **Advent of Code 2024**: Daily puzzles and brain-teasers testing your Data Structures & Algorithms knowledge, as well as other common software problem solving skills.
-2. **Chaos Engineering**: (No code here yet) Learning basics of chaos engineering through failure injection to test system durability when things inevitably go wrong.
+1. **Advent of Code 2024**: Daily puzzles and brain-teasers testing your Data Structures & Algorithms knowledge, as well as other common software problem solving skills.  
+2. **Bluesky Search Engine** (In Progress):  
+   - **Scraper**: A completed web scraper that pulls posts from Bluesky by starting with a seed author and iteratively expanding to new authors referenced in posts.  
+   - **TF-IDF Calculation**: Scripts are in place to compute TF-IDF scores for document-term pairs. Currently, this process works on a text file corpus and is being updated to process Bluesky posts directly.  
+   - **Planned Features**: Future plans include adapting the TF-IDF pipeline for Bluesky data, adding a search frontend for users to query relevant authors by keyword, and deploying the project using Docker.  
 
 #### Past Projects
 
-1. **GAN Research**: Led a project to evaluate GAN output quality, proposing a novel metric. Results published in an [academic paper](https://arxiv.org/abs/2106.08575).
-2. **Text Search Pipeline**: Developed a TF-IDF-based text search pipeline using Hadoop and MapReduce, enabling efficient search functionality for large text corpora.
+1. **GAN Research**: Led a project to evaluate GAN output quality, proposing a novel metric. Results published in an [academic paper](https://arxiv.org/abs/2106.08575).  
 
 ### Fun Facts
 
-- 🚴 I enjoy biking around Seattle on my cargo bike with my dog.
-- 🧗 I love bouldering with friends at the local climbing gym.
+- 🚴 I enjoy biking around Seattle on my cargo bike with my dog.  
+- 🧗 I love bouldering with friends at the local climbing gym.  
 - 🎸 Still find time to sit down with my guitar when inspiration hits.
+
